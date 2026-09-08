@@ -183,3 +183,5 @@ Para separar frontend y backend, sirve `dist/` en un host estático con fallback
 ## Futuras mejoras
 
 Favoritos e historial en localStorage, comparación entre equipos, fotografías de jugadores, más filtros de ligas, accesibilidad ampliada y pruebas de navegador contra una cuenta de integración. Ninguna de estas ampliaciones necesita cambiar la identidad de los equipos basada en IDs.
+#   F o o t b a l l - E x p l o r e r  
+ 
